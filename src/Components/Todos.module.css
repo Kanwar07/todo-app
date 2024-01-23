@@ -14,3 +14,17 @@
   padding: 2rem;
   font-size: x-large;
 }
+
+.main {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+  font-size: x-large;
+}
+
+.main1 {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+  font-size: large;
+}
