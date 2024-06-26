@@ -22,7 +22,7 @@ function AddTodo() {
       </div>
       <form
         onSubmit={addTodoHandler}
-        className="space-x-3 mt-12 flex justify-center p-4"
+        className="space-x-3 flex justify-center p-4"
       >
         <input
           type="text"
